@@ -9,7 +9,7 @@ package proyecto;
  * Raul Rodriguez Tortosa, Este es el comentario que he hecho
  */
 public class Proyecto {
-    static String veredicto(String valor1, String valor2) {
+    private static String veredicto(String valor1, String valor2) {
         if (valor1.equals(valor2)) {
             return "Bien. Pero una hora de estudio para cada módulo puede ser insuficiente.";
         }
