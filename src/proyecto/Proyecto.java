@@ -6,7 +6,7 @@ package proyecto;
 
 /**
  *
- * @author mengardo
+ * Raul Rodriguez Tortosa, Este es el comentario que he hecho
  */
 public class Proyecto {
     static String veredicto(String valor1, String valor2) {
